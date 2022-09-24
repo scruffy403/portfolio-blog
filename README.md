@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Info specific to this project.
+
+## Setting up
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
